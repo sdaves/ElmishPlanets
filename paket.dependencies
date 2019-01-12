@@ -1,4 +1,4 @@
-framework net45
+framework netstandard2.0
 source https://www.nuget.org/api/v2
 nuget FAKE 5.3.0
 
@@ -13,7 +13,7 @@ group neutral
 # Dependencies used when compiling and running Android samples. We can normally use the latest FSharp.Core and 
 # latest Xamarin.Forms though we pin them for now.
 group androidapp
-  framework monoandroid9.0
+  framework monoandroid7.1
   source https://www.nuget.org/api/v2
   nuget Fabulous.LiveUpdate 0.21.1 prerelease
   nuget Xamarin.Essentials 
