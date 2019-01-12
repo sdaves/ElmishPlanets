@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>ElmishPlanets.Android</RootNamespace>
     <AssemblyName>ElmishPlanets.Android</AssemblyName>
-    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>25</TargetFrameworkVersion>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
